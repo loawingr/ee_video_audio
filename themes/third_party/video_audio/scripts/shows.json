@@ -1,0 +1,20 @@
+{
+    "$xmlns": {
+        "plfield": "http://xml.theplatform.com/data/object/Field"
+    },
+    "totalResults": 3,
+    "startIndex": 1,
+    "itemsPerPage": 1,
+    "entryCount": 1,
+    "entries": [
+        {
+            "plfield$fieldName": "show",
+            "plfield$allowedValues": [
+                "13 Tracks",
+                "18 to Life",
+                "22 Minutes",
+                "A Propos"
+            ]
+        }
+    ]
+}
